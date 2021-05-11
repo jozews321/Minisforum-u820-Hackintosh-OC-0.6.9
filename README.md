@@ -11,4 +11,4 @@ Networking: Intel AX200 WIFI 6 with Bluetooth 5.0, and Dual ethernet 1Gbps and 2
 Bootloader: Opencore 0.6.9\
 
 
-more info: https://www.reddit.com/r/hackintosh/comments/na0vbw/minisforum_u820_mini_pc_success_macos_big_sur/
+More info: https://www.reddit.com/r/hackintosh/comments/na0vbw/minisforum_u820_mini_pc_success_macos_big_sur/
