@@ -1,6 +1,6 @@
 # Minisforum-u820-Hackintosh-OC-0.6.9
 
-Minisforum u820 hack mini specs__
+Minisforum u820 hack mini specs\
 CPU: Intel Core i5-8259U, 4C/8T__
 GPU: Intel Iris Plus 655, Full graphics acceleration working__
 RAM: 16GB DDR4 SODIMM 2400mhz Dual channel__
